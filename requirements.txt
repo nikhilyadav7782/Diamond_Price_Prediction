@@ -2,4 +2,4 @@ scikit-learn
 xgboost
 sklearn
 pandas
-xgboost-0.81-cp37-cp37m-win32.whl
+
